@@ -1,4 +1,4 @@
-# Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-studio
+# Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-staudio
 ## Aim :
 To Execute a program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio.
 
@@ -28,10 +28,7 @@ Sensors: You can think of sensors as the eyes of the robots. The sensors do the 
 
 Controllers: Controllers synchronize and control the movement of different actuators of a robot, thereby being the brain behind the smooth robotic operation.
 
-
-
 Procedure:
-
 
 1) Place the given object on table (Workspace).
 2) Use 2 Jaw Gripper to pick the object from P1 (Pick Point). 
@@ -40,15 +37,16 @@ Procedure:
 
 
 ## Program 
-// Roll no:
+![image](https://user-images.githubusercontent.com/94883079/204586775-677aaa75-5a6d-4510-9106-020b8f60253e.png)
 
-//Name:
-MoveJ ................
+![image](https://user-images.githubusercontent.com/94883079/204586837-bfdd42af-e2c7-4dbd-9787-78848122cde0.png)
 
-## output : 
+![image](https://user-images.githubusercontent.com/94883079/204586867-1b1275b8-2ea6-4e84-ac18-4651dd2e74a4.png)
+## output :
+![image](https://user-images.githubusercontent.com/94883079/204587221-4a92ea73-6d96-4b72-b449-75cc7dd01f1d.png)
 
-
-## Results: 
+### Result: 
+A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
 
 
